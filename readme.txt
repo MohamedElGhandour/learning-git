@@ -12,4 +12,11 @@
 	git push origin
 	git push origin2
 - to create new branch for development
-	git branch [branch name]  	
+	git branch [branch name]
+- switch to branch
+	git checkout [branch name]
+- to log the commits
+	git log
+- if remote repo is changed, you should use
+	git pull
+  	
